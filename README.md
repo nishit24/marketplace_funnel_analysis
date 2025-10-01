@@ -16,10 +16,3 @@ We were provided with four datasets:
 The goal is to measure funnel conversion, identify drop-offs, and make actionable recommendations.
 
 ---
-
-## 🛠️ How to Run
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/<your-username>/marketplace-funnel-analysis.git
-cd marketplace-funnel-analysis
